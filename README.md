@@ -1,6 +1,4 @@
 <h1 align="center">¡Hola! 👋 Soy María Dariana</h1>
-<h3 align="center">👩🏽‍💻 Ingeniera de Computación y Sistemas | 🖌️ Apasionada por el diseño | ♻️ Mejora Continua</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Apasionada+por+la+tecnología+y+la+inclusión;Diseñadora+de+experiencias+digitales;Emprendedora+creativa+y+en+constante+aprendizaje."/>
 </p>
@@ -33,20 +31,6 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-</p>
-
----
-
-### 🌐 Conecta conmigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maria-dariana/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mariadarianabv@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40"/>
-  </a>
 </p>
 
 ---
