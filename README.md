@@ -2,21 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Apasionada+por+la+tecnología+y+la+inclusión;Diseñadora+de+experiencias+digitales;Emprendedora+creativa+y+en+constante+aprendizaje."/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=dara20010&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dara20010&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dara20010&theme=radical" alt="GitHub Streak"/></td>
-    </tr>
-  </table>
-</p>
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
